@@ -1,2 +1,2 @@
 # my-first-repository
-Primeiro repositoria para aulas aos alunos da EPP 2026
+Primeiro repositório para exercícios das aulas de Versionamento aos alunos da EPP 2026
